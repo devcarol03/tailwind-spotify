@@ -4,10 +4,10 @@ export default function Home() {
   return (
     <div className="h-screen">
       <div>
-        <aside></aside>
-        <main></main>
+        <aside>sidebar</aside>
+        <main>main</main>
       </div>
-      <footer></footer>
+      <footer>footer</footer>
     </div>
   )
 }
